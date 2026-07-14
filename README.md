@@ -1,5 +1,5 @@
 <h1 align="center">Hey, I'm JC Jacobe 👋</h1>
-<h3 align="center">A Full Stack Developer from the Philippines.</h3>
+<h3 align="center">A Software Engineer from the Philippines.</h3>
 
 <h3>🌐 Socials:</h3>
 
